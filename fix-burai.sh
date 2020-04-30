@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #author: Mateus Augusto Martins de Paiva
+#use sudo or su to run this script
 echo "## EOL upgrade sources.list
 # Required
 deb http://old-releases.ubuntu.com/ubuntu/ artful main restricted universe multiverse
